@@ -9,6 +9,13 @@ Constraints:
     • Inputs and outputs should be unsigned integers.
 
     • The module should be synchronous with a clock and reset.
+
+#### Processing Element Block 
+<img width="205" height="170" alt="image" src="https://github.com/user-attachments/assets/bb5f6d38-deb6-4fab-b9fe-3e202f11b60a" />
+
+#### Matrix Data Feeding into the PE Array
+<img width="472" height="371" alt="image" src="https://github.com/user-attachments/assets/88068bf2-ae58-4dfc-87ab-edfb25496697" />
+
 #### RTL  
 <img width="1047" height="648" alt="image" src="https://github.com/user-attachments/assets/0a1f7dbb-81e7-4886-9723-fa0a6d066de4" /> 
 
