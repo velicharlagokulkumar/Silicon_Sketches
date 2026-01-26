@@ -19,8 +19,7 @@ Constraints:
 #### Resource Summary
 <img width="366" height="176" alt="image" src="https://github.com/user-attachments/assets/6b702d8f-bb87-483b-b064-04ca8bf56911" />
 
-    • 8 Multipliers
-    • 8 DSPS
+    • 8 Multipliers -> 8 DSPS
 
 #### RTL  
 <img width="1047" height="648" alt="image" src="https://github.com/user-attachments/assets/0a1f7dbb-81e7-4886-9723-fa0a6d066de4" /> 
