@@ -1,0 +1,85 @@
+$date
+	Fri Jan 23 17:30:41 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module stagger_edges_tb $end
+$var parameter 32 ! AW $end
+$var parameter 32 " BW $end
+$var parameter 32 # N $end
+$var reg 1 $ clk $end
+$var reg 1 % rst $end
+$var reg 1 & vld_in $end
+$scope module inst_stagger $end
+$var wire 1 $ clk $end
+$var wire 1 % rst $end
+$var wire 1 & vld_in $end
+$var parameter 32 ' AW $end
+$var parameter 32 ( BW $end
+$var parameter 32 ) N $end
+$var integer 32 * i [31:0] $end
+$var integer 32 + j [31:0] $end
+$upscope $end
+$scope begin $unm_blk_8 $end
+$var integer 32 , i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 )
+b10000 (
+b10000 '
+b100 #
+b10000 "
+b10000 !
+$end
+#0
+$dumpvars
+b100 ,
+bx +
+bx *
+0&
+1%
+0$
+$end
+#5000
+b100 +
+b100 *
+1$
+#10000
+0$
+#12000
+0%
+#15000
+1$
+#20000
+b100 ,
+1&
+0$
+#25000
+b100 +
+b100 *
+1$
+#30000
+b100 ,
+0$
+#35000
+b100 +
+b100 *
+1$
+#40000
+0&
+0$
+#45000
+1$
+#50000
+0$
+#55000
+1$
+#60000
+0$
