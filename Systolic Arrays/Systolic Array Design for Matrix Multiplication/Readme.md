@@ -15,6 +15,8 @@ Constraints:
 
 #### Matrix Data Feeding into the PE Array
 <img width="472" height="371" alt="image" src="https://github.com/user-attachments/assets/88068bf2-ae58-4dfc-87ab-edfb25496697" />
+<img width="635" height="580" alt="image" src="https://github.com/user-attachments/assets/cc719f08-0e36-4a32-8974-5f7034161fad" />
+
 
 #### RTL  
 <img width="1047" height="648" alt="image" src="https://github.com/user-attachments/assets/0a1f7dbb-81e7-4886-9723-fa0a6d066de4" /> 
