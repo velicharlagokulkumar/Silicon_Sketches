@@ -1,4 +1,4 @@
-## Basic Systolic Array Design
+## Systolic Array Design for 4x4 Matrix Multiplication
 
 Design a simple 4x4 systolic array using SystemVerilog. The array should take two 4x4 staggered matrices as input and produce a 4x4 matrix as output, representing the matrix multiplication result.
 
